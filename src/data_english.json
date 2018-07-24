@@ -1,0 +1,63 @@
+[
+    [{
+        "definition": "date",
+        "possibleValues": [
+            [{
+                "definition": "week day",
+                "possibleValues": [
+                    [{
+                            "definition": "monday",
+                            "possibleValues": []
+                        },
+                        {
+                            "definition": "tuesday",
+                            "possibleValues": []
+                        }
+                    ]
+                ]
+            }],
+            [{
+                "definition": "week day number",
+                "possibleValues": [
+                    [{
+                            "definition": 1,
+                            "possibleValues": []
+                        },
+                        {
+                            "definition": 2,
+                            "possibleValues": []
+                        }
+                    ]
+                ]
+            }],
+            [{
+                "definition": "month",
+                "possibleValues": [
+                    [{
+                            "definition": "january",
+                            "possibleValues": []
+                        },
+                        {
+                            "definition": "february",
+                            "possibleValues": []
+                        }
+                    ]
+                ]
+            }],
+            [{
+                "definition": "year",
+                "possibleValues": [
+                    [{
+                            "definition": 1980,
+                            "possibleValues": []
+                        },
+                        {
+                            "definition": 1981,
+                            "possibleValues": []
+                        }
+                    ]
+                ]
+            }]
+        ]
+    }]
+]
